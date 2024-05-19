@@ -1,0 +1,8 @@
+from,to,weight,relation
+KW,BB,4,9
+KW,SW,3,3
+KW,MO,3,10
+KW,LW,3,10
+BB,SW,3,11
+SW,MO,3,11
+MO,BB,3,10
